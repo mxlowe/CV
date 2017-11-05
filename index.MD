@@ -6,7 +6,7 @@
     		</ul>
 		</nav>
 
-
+<br>
 <h5>Education and Professional Experience</h5>  
 
 	<p>Postdoctoral Research Associate, Massachusetts Institute of Technology (2017- Present)
@@ -20,10 +20,10 @@
 	<br>Advisors: Dr. Jonathan S. Cant and Dr. Susanne Ferber</p>
 	
 	<p>B.Sc., Psychology, University of Cape Town (2008-2010)</p> 
-
+<br>
 <h5>General Research Interests</h5>                                                                                                   	
 	<p>Visual cognition and neuroscience; scene perception; object perception; individual differences</p>
-
+<br>
 <h5>Publications</h5>                                                                                                                           <h6>Journal Articles (6)</h6>
 	<p>Lowe, M.X., Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface 			properties in object and scene perception, NeuroImage, 157, 586-597*
 		<br><b>*Featured on the journal cover</b></p>
@@ -39,7 +39,7 @@
 	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Walther, D.B. (Under review). Temporal dynamics underlying scene categorization in 		the human brain</p>
 	<p>Lowe, M.X., Stevenson, R.A., Barense, M.D., Cant, J.S., and Ferber, S. (Under review). Individual differences in autistic 			traits predict the bias of ensemble statistics for items in visual working memory</p>
 	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Cant, J.S. (Under review). Efficient encoding of ensemble statistics in the visual 			periphery</p>
-
+<br>
 <h5>Conference Presentations</h5>                                                                                                                 
 <h6>2017</h6>	
 	<p>Lowe, M.X., Rajsic, J., Cant, J.S., and Ferber, S. (2017) Efficient encoding of ensemble statistics in the visual periphery. 		Talk to be presented at the Society for Neuroscience Annual Meeting, Washing, D.C.*
@@ -60,7 +60,7 @@
 		the Canadian Society for Brain, Behaviour, and Cognitive Science Annual Meeting, Toronto, ON.</p>
 	<p>Lowe, M.X., and Cant, J.S. (2014). Perceiving the global: The role of surface texture consistency in object and background 			perception. Poster presented at the Vision Sciences Society Annual Meeting, St. Petersburg, FL.</p>
 	<p>Wilson, K.E., Ruppel, J., Lowe, M.X., Shaw, M., Kosnik, R., Pratt, J., and Ferber, S. (2013). Individual differences in the 			scope of spatial attention. Poster presented at Vision Sciences Society Annual Meeting, Naples, FL.</p>
-	
+<br>	
 <h5>Awards/Funding</h5>                                                                                                                                 
 	<p>Ontario Graduate Scholarship (OGS), 2017-2018 
 	<br>Elsevier Travel Award (VSS Student Travel Award), 2017
@@ -70,10 +70,10 @@
 	<br>Travel Award from the Faculty of Arts & Sciences, University of Toronto, 2014 	
 	<br>Dean’s Award for Academic Excellence, University of Cape Town, 2009
 	<br>Academic Scholarship, University of Cape Town, 2007-2008</p>
-
+<br>
 <h5>Neuroimaging Techniques</h5>                                                                                                                 
 	<p>Functional Magnetic Resonance Imaging (Univariate analysis; multivoxel pattern analysis; fMR-adaptation); 			Electroencephalography (EEG)</p>
-
+<br>
 <h5>Teaching</h5>                                                                                                                              
 	<p>Teaching Assistant
 	<br>Cognitive Neuroscience, 2017
@@ -81,7 +81,7 @@
 	<br>Cognitive Neuroscience of Vision, 2014, 2015                                
 	<br>Perception and Cognition, 2014, 2016
 	<br>Psychological Research Laboratory, 2013</p>
-
+<br>
 <h5>Affiliations</h5>                                                                                                                                      
 	<p>Society for Neuroscience; Organization for Human Brain Mapping; Cognitive Neuroscience Society; Vision Science Society; Canadian Society for Brain, Behaviour, and Cognitive Science</p>
 </body>
