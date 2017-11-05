@@ -18,8 +18,8 @@
 <h6>General Research Interests</h6>                                                                                                   	
 	Visual cognition and neuroscience; scene perception; object perception; individual differences
 
-<h6>Publications</h6>                                                                                                                           Journal Articles (6)
-	Lowe, M.X., Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface 			properties in object and scene perception, NeuroImage, 157, 586-597*
+<h6>Publications</h6>                                                                                                                           <b>Journal Articles (6)<b>
+	<p>Lowe, M.X., Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface 			properties in object and scene perception, NeuroImage, 157, 586-597*
 		*Featured on the journal cover
 	Robin, J., Lowe, M.X., Pishdadian, S., Rivest, J., Cant, J.S., & Moscovitch, M. (2017). Selective scene perception deficits in a 		case of topographical disorientation, Cortex, 92, 70-80
 	Lowe, M.X., Gallivan, J.P., Ferber, S., and Cant, J.S. (2016). Feature diagnosticity and task context shape activity in human 			scene-selective cortex, NeuroImage, 125, 681-692* 
