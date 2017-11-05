@@ -66,17 +66,17 @@
 	<br>Academic Scholarship, University of Cape Town, 2007-2008</p>
 
 <h5>Neuroimaging Techniques</h5>                                                                                                                 
-	Functional Magnetic Resonance Imaging (Univariate analysis; multivoxel pattern analysis; fMR-adaptation); Electroencephalography 	(EEG)
+	<p>Functional Magnetic Resonance Imaging (Univariate analysis; multivoxel pattern analysis; fMR-adaptation); 			Electroencephalography (EEG)</p>
 
-<h6>Teaching</h6>                                                                                                                              
-	Teaching Assistant
-	Cognitive Neuroscience, 2017
-	Cognitive Psychology Laboratory, 2014, 2015, 2016                              
-	Cognitive Neuroscience of Vision, 2014, 2015                                
-	Perception and Cognition, 2014, 2016
-	Psychological Research Laboratory, 2013
+<h5>Teaching</h5>                                                                                                                              
+	<p>Teaching Assistant
+	<br>Cognitive Neuroscience, 2017
+	<br>Cognitive Psychology Laboratory, 2014, 2015, 2016                              
+	<br>Cognitive Neuroscience of Vision, 2014, 2015                                
+	<br>Perception and Cognition, 2014, 2016
+	<br>Psychological Research Laboratory, 2013</p>
 
-<h6>Affiliations</h6>                                                                                                                                      
-	Society for Neuroscience; Organization for Human Brain Mapping; Cognitive Neuroscience 	Society; Vision Science Society; 		Canadian Society for Brain, Behaviour, and Cognitive Science
+<h5>Affiliations</h5>                                                                                                                                      
+	<p>Society for Neuroscience; Organization for Human Brain Mapping; Cognitive Neuroscience Society; Vision Science Society; Canadian Society for Brain, Behaviour, and Cognitive Science</p>
 </body>
 </html>
