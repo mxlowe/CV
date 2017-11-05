@@ -69,6 +69,6 @@
 	Perception and Cognition, 2014, 2016
 	Psychological Research Laboratory, 2013
 
-<h6>Affiliations</h6>                                                                                                                                     
+<h6>Affiliations</h6>                                                                                                                                      
 	Society for Neuroscience; Organization for Human Brain Mapping; Cognitive Neuroscience 	Society; Vision Science Society; 		Canadian Society for Brain, Behaviour, and Cognitive Science
 </html>
