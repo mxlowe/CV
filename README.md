@@ -22,7 +22,7 @@ Journal Articles (6)
 
 Robin, J., Lowe, M.X., Pishdadian, S., Rivest, J., Cant, J.S., & Moscovitch, M. (2017). Selective scene perception deficits in a case of topographical disorientation, Cortex, 92, 70-80
 Lowe, M.X., Gallivan, J.P., Ferber, S., and Cant, J.S. (2016). Feature diagnosticity and task context shape activity in human scene-selective cortex, NeuroImage, 125, 681-692* *Featured on the journal cover
-	Lowe, M.X., Stevenson, R.A., Wilson, K.E., Ouslis, N.E., Barense, M.D., Cant, J.S., and 	Ferber, S. (2016). Sensory processing patterns predict the integration of information held in 	visual working memory, Journal of Experimental Psychology: Human Perception and 	Performance, 42(2), 294-301
+Lowe, M.X., Stevenson, R.A., Wilson, K.E., Ouslis, N.E., Barense, M.D., Cant, J.S., and Ferber, S. (2016). Sensory processing patterns predict the integration of information held in 	visual working memory, Journal of Experimental Psychology: Human Perception and 	Performance, 42(2), 294-301
 	Wilson, K.E., Lowe, M.X., Ruppel, J., Pratt, J., and Ferber, S. (2016). The scope of no 	return: Openness predicts the spatial distribution of Inhibition of Return, Attention, 	Perception, & Psychophysics, 78, 209-217
 	Lowe, M.X., Ferber, S., and Cant, J.S. (2015). Processing context: Asymmetric interference 	of visual form and texture in object and scene interactions, Vision Research, 117, 34-40* 	*Featured on the journal cover
 Submitted (3) 
