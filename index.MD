@@ -3,9 +3,9 @@
 
 <h6>Education and Professional Experience</h6>  
 
-	Postdoctoral Research Associate, Massachusetts Institute of Technology (2017- Present)
+	<p>Postdoctoral Research Associate, Massachusetts Institute of Technology (2017- Present)
 	Computer Science and Artificial Intelligence Lab (CSAIL)
-	Advisor: Dr. Aude Oliva
+	Advisor: Dr. Aude Oliva</p>
 	
 	Ph.D., Cognitive Neuroscience, University of Toronto (2014-2017)
 	Advisors: Dr. Jonathan S. Cant and Dr. Susanne Ferber
