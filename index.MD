@@ -1,4 +1,5 @@
 <html>
+<body>
 
 <h6>Education and Professional Experience</h6>                                                                                          
 	Postdoctoral Research Associate, Massachusetts Institute of Technology (2017- Present)
@@ -71,4 +72,5 @@
 
 <h6>Affiliations</h6>                                                                                                                                      
 	Society for Neuroscience; Organization for Human Brain Mapping; Cognitive Neuroscience 	Society; Vision Science Society; 		Canadian Society for Brain, Behaviour, and Cognitive Science
+</body>
 </html>
