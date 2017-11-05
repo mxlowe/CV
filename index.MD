@@ -7,13 +7,13 @@
 	Computer Science and Artificial Intelligence Lab (CSAIL)
 	Advisor: Dr. Aude Oliva</p>
 	
-	Ph.D., Cognitive Neuroscience, University of Toronto (2014-2017)
-	Advisors: Dr. Jonathan S. Cant and Dr. Susanne Ferber
+	<p>Ph.D., Cognitive Neuroscience, University of Toronto (2014-2017)
+	Advisors: Dr. Jonathan S. Cant and Dr. Susanne Ferber</p>
 	
-	M.A., Cognitive Neuroscience, University of Toronto (2013-2014)
-	Advisors: Dr. Jonathan S. Cant and Dr. Susanne Ferber
+	<p>M.A., Cognitive Neuroscience, University of Toronto (2013-2014)
+	Advisors: Dr. Jonathan S. Cant and Dr. Susanne Ferber</p>
 	
-	B.Sc., Psychology, University of Cape Town (2008-2010)
+	<p>B.Sc., Psychology, University of Cape Town (2008-2010)</p>
 
 <h6>General Research Interests</h6>                                                                                                   	
 	Visual cognition and neuroscience; scene perception; object perception; individual differences
