@@ -13,7 +13,7 @@
 	<p>M.A., Cognitive Neuroscience, University of Toronto (2013-2014)
 	Advisors: Dr. Jonathan S. Cant and Dr. Susanne Ferber</p>
 	
-	<p>B.Sc., Psychology, University of Cape Town (2008-2010)</p>
+	<p>B.Sc., Psychology, University of Cape Town (2008-2010)</p> 
 
 <h6>General Research Interests</h6>                                                                                                   	
 	Visual cognition and neuroscience; scene perception; object perception; individual differences
