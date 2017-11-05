@@ -1,5 +1,11 @@
 <html>
 <body>
+		<nav>
+    		<ul>
+        		<li><a href="/Home">Home</a>  /   <a href="/cv">CV</a>  /   <a href="/publications">Publications</a></li>
+    		</ul>
+		</nav>
+
 
 <h5>Education and Professional Experience</h5>  
 
