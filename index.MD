@@ -75,8 +75,8 @@
 	<p>Functional Magnetic Resonance Imaging (Univariate analysis; multivoxel pattern analysis; fMR-adaptation); 			Electroencephalography (EEG)</p>
 <br>
 <h5>Teaching</h5>                                                                                                                              
-	<h6>Teaching Assistant</h6>
-	<p><br>Cognitive Neuroscience, 2017
+	<p><h6>Teaching Assistant</h6>
+	<br>Cognitive Neuroscience, 2017
 	<br>Cognitive Psychology Laboratory, 2014, 2015, 2016                              
 	<br>Cognitive Neuroscience of Vision, 2014, 2015                                
 	<br>Perception and Cognition, 2014, 2016
