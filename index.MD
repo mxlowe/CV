@@ -28,14 +28,14 @@
 	<p>Visual cognition and neuroscience; scene perception; object perception; individual differences</p>
 <br>
 <h5>Publications</h5>                                                                                                                           <h6>Journal Articles (6)</h6>
-	<p>Lowe, M.X., Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface 			properties in object and scene perception, NeuroImage, 157, 586-597*
+	<p><strong>Lowe, M.X.</strong>, Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface 			properties in object and scene perception, <em>NeuroImage</em>, 157, 586-597*
 		<br>*Featured on the journal cover</p>
-	<p>Robin, J., Lowe, M.X., Pishdadian, S., Rivest, J., Cant, J.S., & Moscovitch, M. (2017). Selective scene perception deficits 		in a case of topographical disorientation, Cortex, 92, 70-80</p>
-	<p>Lowe, M.X., Gallivan, J.P., Ferber, S., and Cant, J.S. (2016). Feature diagnosticity and task context shape activity in human 			scene-selective cortex, NeuroImage, 125, 681-692* 
+	<p>Robin, J., <strong>Lowe, M.X.</strong>, Pishdadian, S., Rivest, J., Cant, J.S., & Moscovitch, M. (2017). Selective scene perception deficits 		in a case of topographical disorientation, <em>Cortex</em>, 92, 70-80</p>
+	<p><strong>Lowe, M.X.</strong>, Gallivan, J.P., Ferber, S., and Cant, J.S. (2016). Feature diagnosticity and task context shape activity in human 			scene-selective cortex, <em>NeuroImage</em>, 125, 681-692* 
 		<br>*Featured on the journal cover</p>	
-	<p>Lowe, M.X., Stevenson, R.A., Wilson, K.E., Ouslis, N.E., Barense, M.D., Cant, J.S., and Ferber, S. (2016). Sensory 				processing patterns predict the integration of information held in visual working memory, Journal of Experimental 			Psychology: Human Perception and Performance, 42(2), 294-301</p>
-	<p>Wilson, K.E., Lowe, M.X., Ruppel, J., Pratt, J., and Ferber, S. (2016). The scope of no return: Openness predicts the 				spatial distribution of Inhibition of Return, Attention, Perception, & Psychophysics, 78, 209-217</p>
-	<p>Lowe, M.X., Ferber, S., and Cant, J.S. (2015). Processing context: Asymmetric interference of visual form and texture in 			object and scene interactions, Vision Research, 117, 34-40*	
+	<p><strong>Lowe, M.X.</strong>, Stevenson, R.A., Wilson, K.E., Ouslis, N.E., Barense, M.D., Cant, J.S., and Ferber, S. (2016). Sensory 				processing patterns predict the integration of information held in visual working memory, <em>Journal of Experimental 			Psychology: Human Perception and Performance</em>, 42(2), 294-301</p>
+	<p>Wilson, K.E., <strong>Lowe, M.X.</strong>, Ruppel, J., Pratt, J., and Ferber, S. (2016). The scope of no return: Openness predicts the 				spatial distribution of Inhibition of Return, <em>Attention, Perception, & Psychophysics</em>, 78, 209-217</p>
+	<p><strong>Lowe, M.X.</strong>, Ferber, S., and Cant, J.S. (2015). Processing context: Asymmetric interference of visual form and texture in 			object and scene interactions, <em>Vision Research</em>, 117, 34-40*	
 		<br>*Featured on the journal cover</p>
 		
 	<h6>Submitted</h6> 
@@ -78,7 +78,7 @@
 	<p>Functional Magnetic Resonance Imaging (Univariate analysis; multivoxel pattern analysis; fMR-adaptation); 			Electroencephalography (EEG)</p>
 <br>
 <h5>Teaching Experience</h5>                                                                                                                              
-	<p><h6>Teaching Assistant</h6>
+	<p><strong>Teaching Assistant</strong>
 	<br>Cognitive Neuroscience, 2017
 	<br>Cognitive Psychology Laboratory, 2014, 2015, 2016                              
 	<br>Cognitive Neuroscience of Vision, 2014, 2015                                
