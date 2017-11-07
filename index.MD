@@ -80,7 +80,7 @@
 <br>
 <h5>Teaching Experience</h5>                                                                                                                              
 	<p><strong>Lectures</strong>
-	<br><em>'Neural Representations of the Visual World Across Space and Time'</em>, 1 hour lecture, Thesis Day 2017. University of 	Toronto
+	<br><em>'Neural Representations of the Visual World Across Space and Time'</em>, 1 hour lecture, Thesis Day 2017, University of 	Toronto
 	<br><em>'Sensation and Perception'</em>, 3 hour lecture, 4th year psychology course, University of Toronto
 	<br><em>'Scene Perception'</em>, 2 hour lecture, 3rd year psychology course, University of Toronto
 	<br><em>'Introduction to Experimental Design and Data Analysis'</em>, 2 hour lecture, 3rd year psychology course, University of 	Toronto
