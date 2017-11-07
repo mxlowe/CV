@@ -10,6 +10,7 @@
 		</nav> 
 
 <br>
+<br>
 <h5>Education and Professional Experience</h5>  
 
 	<p>Postdoctoral Research Associate, Massachusetts Institute of Technology (2017- Present)
