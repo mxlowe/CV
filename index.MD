@@ -46,8 +46,7 @@
 <br>
 <h5>Conference Presentations</h5>                                                                                                                 
 <h6>2017</h6>	
-	<p>Lowe, M.X., Rajsic, J., Cant, J.S., and Ferber, S. (2017) Efficient encoding of ensemble statistics in the visual periphery. 		Talk to be presented at the Society for Neuroscience Annual Meeting, Washing, D.C.*
-		<br>*Abstract selected for symposium</p>		
+	<p>Lowe, M.X., Rajsic, J., Cant, J.S., and Ferber, S. (2017) Efficient encoding of ensemble statistics in the visual periphery. 		Talk presented at the Society for Neuroscience Annual Meeting, Washing, D.C.		
 	<p>Lowe, M.X., Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017) Making a scene: Neural representation of visual 			features in object and scene perception. Poster presented at the Organization for Human Brain Mapping Annual Meeting, 			Vancouver, BC.</p>
 	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Walther, D.B. (2017) Category discrimination of early electrophysiological responses 		reveals the time course of natural scene perception. Poster presented at the Vision Sciences Society Annual 				Meeting, St. Petersburg, FL.*
 		<br>*Abstract awarded the Elsevier Travel Award</p>
