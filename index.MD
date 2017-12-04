@@ -92,5 +92,4 @@
 	<br>
 <h5>Affiliations</h5>                                                                                                                                      
 	<p>Society for Neuroscience; Organization for Human Brain Mapping; Cognitive Neuroscience Society; Vision Science Society; Canadian Society for Brain, Behaviour, and Cognitive Science</p>
-</body>
-</html>
+
