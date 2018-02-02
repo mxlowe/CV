@@ -42,7 +42,7 @@
 	<h6>Submitted</h6> 
 	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Walther, D.B. (Under review). Temporal dynamics underlying scene categorization in 		the human brain</p>
 	<p>Lowe, M.X., Stevenson, R.A., Barense, M.D., Cant, J.S., and Ferber, S. (Under review). Individual differences in autistic 			traits predict the bias of ensemble statistics for items in visual working memory</p>
-	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Cant, J.S. (Under review). Efficient encoding of ensemble statistics in the visual 			periphery</p>
+	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Cant, J.S. (Under review). Encoding of ensemble statistics in central and peripheral vision</p>
 <br>
 <h5>Conference Presentations</h5>                                                                                                                 
 <h6>2017</h6>	
