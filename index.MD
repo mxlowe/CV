@@ -26,7 +26,7 @@
 	<p>B.Sc., Psychology, University of Cape Town (2008-2010)</p> 
 <br>
 <h5>General Research Interests</h5>                                                                                                   	
-	<p>Visual cognition and neuroscience; scene perception; object perception; individual differences</p>
+	<p>Cognition and neuroscience; vision; audition; scene perception; object perception; individual differences; memory</p>
 <br>
 <h5>Publications</h5>                                                                                                                           <h6>Journal Articles (6)</h6>
 	<p><strong>Lowe, M.X.</strong>, Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface 			properties in object and scene perception, <em>NeuroImage</em>, 157, 586-597*
