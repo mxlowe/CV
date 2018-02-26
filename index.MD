@@ -40,7 +40,7 @@
 		<br>*Featured on the journal cover</p>
 		
 	<h6>Submitted</h6> 
-	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Walther, D.B. (In revision). Temporal dynamics underlying scene categorization in 		the human brain</p>
+	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Walther, D.B. (In revision). Discriminating scene categories from brain activity within 100 ms</p>
 	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Cant, J.S. (Under review). Encoding of ensemble statistics in central and peripheral vision</p>
 <br>
 <h5>Conference Presentations</h5>                                                                                                                 
