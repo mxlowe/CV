@@ -43,7 +43,8 @@
 	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Walther, D.B. (In revision). Discriminating scene categories from brain activity within 100 ms</p>
 	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Cant, J.S. (Under review). Encoding of ensemble statistics in central and peripheral vision</p>
 <br>
-<h5>Conference Presentations</h5>                                                                                                                 
+<h5>Conference Presentations</h5>                                                                                                        <h6>2018</h6>
+	<p>Lowe, M.X., Teng, S., Mohsenzadeh, Y., Charest, I., Pantazis, D., and Oliva, A. (2018) Temporal dynamics underlying sound 			discrimination in the human brain. Abstract submitted to the Conference on Cognitive Computational Neuroscience, 			Philidephia, PA.	
 <h6>2017</h6>	
 	<p>Lowe, M.X., Rajsic, J., Cant, J.S., and Ferber, S. (2017) Efficient encoding of ensemble statistics in the visual periphery. 		Talk presented at the Society for Neuroscience Annual Meeting, Washington, D.C.		
 	<p>Lowe, M.X., Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017) Making a scene: Neural representation of visual 			features in object and scene perception. Poster presented at the Organization for Human Brain Mapping Annual Meeting, 			Vancouver, BC.</p>
