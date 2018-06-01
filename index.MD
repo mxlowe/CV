@@ -41,8 +41,8 @@
 		<br>*Featured on the journal cover</p>
 		
 	<h6>Submitted</h6> 
-	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Walther, D.B. (In revision). Discriminating scene categories from brain activity within 100 ms</p>
-	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Cant, J.S. (Under review). Encoding of ensemble statistics in central and peripheral vision</p>
+	<p>Lowe, M.X., Stevenson., R.A., Cant., J.S., Barense, M.D., and Ferber, S. (In revision). Relating the perception of visual ensemble statistics to individual levels of autistic traits</p>
+	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Cant, J.S. (In revision). Encoding of ensemble statistics in central and peripheral vision</p>
 <br>
 <h5>Conference Presentations</h5>                                                                                                        <h6>2018</h6>
 	<p>Lowe, M.X., Teng, S., Mohsenzadeh, Y., Charest, I., Pantazis, D., and Oliva, A. (2018) Temporal dynamics underlying sound 			discrimination in the human brain. Abstract submitted to the Conference on Cognitive Computational Neuroscience, 			Philidephia, PA.	
