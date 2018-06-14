@@ -29,7 +29,8 @@
 	<p>Cognition and neuroscience; vision; audition; scene perception; object perception; individual differences; memory</p>
 <br>
 <h5>Publications</h5>                                                                                                                           <h6>Journal Articles (7)</h6>
-	<p><strong>Lowe, M.X., </strong> Rajsic, J., Ferber, S., and Walther, D.B. (<em>in press</em>). Discriminating scene categories from brain activity within 100ms, <em>Cortex</em></p>
+	<p><strong>Lowe, M.X., </strong> Rajsic, J., Ferber, S., and Walther, D.B. (<em>in press</em>). Discriminating scene categories from brain activity within 100ms, <em>Cortex</em></p>*
+	<br>*To be featured on the journal cover</p>
 	<p><strong>Lowe, M.X.</strong>, Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface 			properties in object and scene perception, <em>NeuroImage</em>, 157, 586-597*
 		<br>*Featured on the journal cover</p>
 	<p>Robin, J., <strong>Lowe, M.X.</strong>, Pishdadian, S., Rivest, J., Cant, J.S., & Moscovitch, M. (2017). Selective scene perception deficits 		in a case of topographical disorientation, <em>Cortex</em>, 92, 70-80</p>
