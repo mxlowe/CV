@@ -28,7 +28,8 @@
 <h5>General Research Interests</h5>                                                                                                   	
 	<p>Cognition and neuroscience; vision; audition; scene perception; object perception; individual differences; memory</p>
 <br>
-<h5>Publications</h5>                                                                                                                           <h6>Journal Articles (7)</h6>
+<h5>Publications</h5>                                                                                                                           <h6>Journal Articles (8)</h6>
+	<p><strong>Lowe, M.X., </strong> Stevenson, R.A., Barense, M.D., Cant, J.S., and Ferber, S. (<em>in press</em>). Relating the perception of visual ensemble statistics to individual levels of autistic traits, <em>Attention, Perception, & Psychophysics</em></p>
 	<p><strong>Lowe, M.X., </strong> Rajsic, J., Ferber, S., and Walther, D.B. (<em>in press</em>). Discriminating scene categories from brain activity within 100ms*, <em>Cortex</em>
 	<br>*To be featured on the journal cover</p>
 	<p><strong>Lowe, M.X.</strong>, Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface 			properties in object and scene perception, <em>NeuroImage</em>, 157, 586-597*
