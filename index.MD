@@ -41,9 +41,7 @@
 	<p>Wilson, K.E., <strong>Lowe, M.X.</strong>, Ruppel, J., Pratt, J., and Ferber, S. (2016). The scope of no return: Openness predicts the 				spatial distribution of Inhibition of Return, <em>Attention, Perception, & Psychophysics</em>, 78, 209-217</p>
 	<p><strong>Lowe, M.X.</strong>, Ferber, S., and Cant, J.S. (2015). Processing context: Asymmetric interference of visual form and texture in 			object and scene interactions, <em>Vision Research</em>, 117, 34-40*	
 		<br>*Featured on the journal cover</p>
-		
-	<h6>Submitted</h6> 
-	<p>Lowe, M.X., Rajsic, J., Ferber, S., and Cant, J.S. (In revision). Encoding of ensemble statistics in central and peripheral vision</p>
+
 <br>
 <h5>Conference Presentations</h5>                                                                                                        <h6>2018</h6>
 	<p>Lowe, M.X., Teng, S., Mohsenzadeh, Y., Charest, I., Pantazis, D., and Oliva, A. (2018) Temporal dynamics underlying sound 			discrimination in the human brain. Abstract submitted to the Conference on Cognitive Computational Neuroscience, 			Philidephia, PA.	
