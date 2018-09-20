@@ -31,7 +31,7 @@
 <h5>Publications</h5>                                                                                                                           <h6>Journal Articles (8)</h6>
 	<p><strong>Lowe, M.X., </strong> Stevenson, R.A., Barense, M.D., Cant, J.S., and Ferber, S. (2018). Relating the perception of visual ensemble statistics to individual levels of autistic traits, <em>Attention, Perception, & Psychophysics</em>, 80, 1667-1664</p>
 	<p><strong>Lowe, M.X., </strong> Rajsic, J., Ferber, S., and Walther, D.B. (2018). Discriminating scene categories from brain activity within 100ms <em>Cortex</em>, 106C, 275-287*
-	<br>*To be featured on the journal cover</p>
+	<br>*Featured on the journal cover</p>
 	<p><strong>Lowe, M.X.</strong>, Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface 			properties in object and scene perception, <em>NeuroImage</em>, 157, 586-597*
 		<br>*Featured on the journal cover</p>
 	<p>Robin, J., <strong>Lowe, M.X.</strong>, Pishdadian, S., Rivest, J., Cant, J.S., & Moscovitch, M. (2017). Selective scene perception deficits 		in a case of topographical disorientation, <em>Cortex</em>, 92, 70-80</p>
