@@ -43,7 +43,10 @@
 		<br>*Featured on the journal cover</p>
 
 <br>
-<h5>Conference Presentations</h5>                                                                                                        <h6>2018</h6>
+<h5>Conference Presentations</h5>                                                                                                        <h6>2019</h6>
+<p>Lowe, M.X., Mohsenzadeh, Y., Lahner, B., Teng, S., , Charest, I., and Oliva, A. (2019) Neural dynamics of human auditory perception across space and time. Poster to be presented at the Cognitive Neuroscience Society, San Francisco, CA*
+		<br>*Abstract awarded the Postdoctoral Fellow Award</p>		
+<h6>2018</h6>
 	<p>Lowe, M.X., Teng, S., Mohsenzadeh, Y., Charest, I., Pantazis, D., and Oliva, A. (2018) Temporal dynamics underlying sound 			discrimination in the human brain. Poster presented at the Conference on Cognitive Computational Neuroscience, 			Philidephia, PA.	
 <h6>2017</h6>	
 	<p>Lowe, M.X., Rajsic, J., Cant, J.S., and Ferber, S. (2017) Efficient encoding of ensemble statistics in the visual periphery. 		Talk presented at the Society for Neuroscience Annual Meeting, Washington, D.C.		
