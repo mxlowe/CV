@@ -76,7 +76,7 @@
 	<br>Academic Scholarship, University of Cape Town, 2007-2008</p>
 <br>
 <h5>Neuroimaging Techniques</h5>                                                                                                                 
-	<p>Functional Magnetic Resonance Imaging (Univariate analysis; multivoxel pattern analysis; fMR-adaptation); 			Electroencephalography (EEG)</p>
+	<p>Functional Magnetic Resonance Imaging (Univariate analysis; multivoxel pattern analysis; fMR-adaptation); 			Electroencephalography (EEG), Magnetoencephalography (MEG), Transcranial Magnetic Stimulation (TMS)</p>
 <br>
 <h5>Teaching Experience</h5>                                                                                                                              
 	<p><strong>Lectures</strong>
