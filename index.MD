@@ -65,7 +65,8 @@
 	<p>Wilson, K.E., Ruppel, J., Lowe, M.X., Shaw, M., Kosnik, R., Pratt, J., and Ferber, S. (2013). Individual differences in the 			scope of spatial attention. Poster presented at Vision Sciences Society Annual Meeting, Naples, FL.</p>
 <br>	
 <h5>Awards/Funding</h5>                                                                                                                                 
-	<p>Ontario Graduate Scholarship (OGS), 2017-2018 
+	<p>Postdoctoral Fellow Award, Cognitive Neuroscience Society (CNS), 2019
+	<br>Ontario Graduate Scholarship (OGS), 2017-2018 
 	<br>Elsevier Travel Award (VSS Student Travel Award), 2017
 	<br>Ontario Graduate Scholarship (OGS), 2016-2017	
 	<br>University of Toronto Fellowship, 2013-2016 
