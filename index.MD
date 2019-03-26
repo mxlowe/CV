@@ -46,7 +46,7 @@
 <h5>Conference Presentations</h5>                                                                                                        <h6>2019</h6>
 
 <p>Lowe, M.X., Mohsenzadeh, Y., Lahner, B., Teng, S., , Charest, I., and Oliva, A. (2019) Spatiotemporal neural representations in high-level visual cortex evoked from sounds. Talk to be presented at the Vision Science Society Annual Meeting, St. Petersburg, FL
-<p>Lowe, M.X., Mohsenzadeh, Y., Lahner, B., Teng, S., , Charest, I., and Oliva, A. (2019) Neural dynamics of human auditory perception across space and time. Poster to be presented at the Cognitive Neuroscience Society, San Francisco, CA*
+<p>Lowe, M.X., Mohsenzadeh, Y., Lahner, B., Teng, S., , Charest, I., and Oliva, A. (2019) Neural dynamics of human auditory perception across space and time. Poster presented at the Cognitive Neuroscience Society, San Francisco, CA*
 		<br>*Abstract awarded the Postdoctoral Fellow Award</p>		
 <h6>2018</h6>
 	<p>Lowe, M.X., Teng, S., Mohsenzadeh, Y., Charest, I., Pantazis, D., and Oliva, A. (2018) Temporal dynamics underlying sound 			discrimination in the human brain. Poster presented at the Conference on Cognitive Computational Neuroscience, 			Philidephia, PA.	
