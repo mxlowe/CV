@@ -1,1 +1,1 @@
-<embed src="https://github.com/mxlowe/mxlowe.github.io/blob/master/MatthewXLowe_CV.pdf" width="1000px" height="1000px" />
+<embed src="https://github.com/mxlowe/CV/blob/master/MatthewXLowe_CV.pdf" width="800px" height="1000px" />
