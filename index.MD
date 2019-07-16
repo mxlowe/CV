@@ -3,6 +3,6 @@
 
 
 
-<object width="720" height="800" position="center" type="application/pdf" data="/MatthewXLowe_CV.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+<object width="720" height="600" align="center" type="application/pdf" data="/MatthewXLowe_CV.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
   </object>
 
