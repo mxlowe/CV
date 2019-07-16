@@ -1,3 +1,5 @@
+<embed src="https://github.com/mxlowe/mxlowe.github.io/blob/master/MatthewXLowe_CV.pdf" width="1000px" height="1000px" />
+
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" style="width:100%; height:100%;">
 <head>
