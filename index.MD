@@ -1,3 +1,9 @@
+<style>
+            .center {
+                text-align: center;
+            }
+            
+        </style>
 <br>
 <br>
 
@@ -7,4 +13,4 @@
   </object>
   
   </div>
-
+        </style>
